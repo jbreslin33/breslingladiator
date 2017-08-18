@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/02_HelloGUI.dir/HelloGUI.cpp.o  -o ../../../bin/02_HelloGUI -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

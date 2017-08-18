@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/37_UIDrag.dir/UIDrag.cpp.o  -o ../../../bin/37_UIDrag -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/39_CrowdNavigation.dir/CrowdNavigation.cpp.o  -o ../../../bin/39_CrowdNavigation -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

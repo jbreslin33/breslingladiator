@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/04_StaticScene.dir/StaticScene.cpp.o  -o ../../../bin/04_StaticScene -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

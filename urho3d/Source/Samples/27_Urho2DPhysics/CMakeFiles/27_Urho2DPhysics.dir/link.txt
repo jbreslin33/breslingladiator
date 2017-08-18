@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/27_Urho2DPhysics.dir/Urho2DPhysics.cpp.o  -o ../../../bin/27_Urho2DPhysics -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

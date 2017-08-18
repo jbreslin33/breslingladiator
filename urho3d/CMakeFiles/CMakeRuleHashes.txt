@@ -1,0 +1,24 @@
+# Hashes of file build rules.
+361be0f7f56a2c388dcd1fea1c15f901 Docs/CMakeFiles/doc
+2636811c11965f3778ea9abfc40d7d52 Docs/generated/LuaScriptAPI.dox
+6482c3a7bf5096b26b47f89410cb8ecc Docs/generated/ScriptAPI.dox
+11444bb67f6bbb36085f9169deaaa49b Docs/html/index.html
+bb012e2021dbfc27c31ea1c2c3d3f79f Source/ThirdParty/toluapp/src/bin/generated/toluabind.c
+1f63f153f2c1d9e0735a448a00ef613a Source/Urho3D/LuaScript/generated/AudioLuaAPI.cpp
+cd6a261322d5d42af96decbf43d4fd47 Source/Urho3D/LuaScript/generated/CoreLuaAPI.cpp
+78947719c33ba02cf4373c85df7ba9b6 Source/Urho3D/LuaScript/generated/EngineLuaAPI.cpp
+d6fa13c33a4574e5c3c28cf103052204 Source/Urho3D/LuaScript/generated/GraphicsLuaAPI.cpp
+6ee3042a53dcba4b6bc5debb5812f253 Source/Urho3D/LuaScript/generated/IKLuaAPI.cpp
+1c3d8418b9c45f2dd1b329537acf380a Source/Urho3D/LuaScript/generated/IOLuaAPI.cpp
+938527fc97954a7e91976919a0f14a5c Source/Urho3D/LuaScript/generated/InputLuaAPI.cpp
+635d298c7bd98a74e9f9349fa250caae Source/Urho3D/LuaScript/generated/LuaScriptLuaAPI.cpp
+3ed9a578c60e1d32e6ce8cdd66825ec3 Source/Urho3D/LuaScript/generated/MathLuaAPI.cpp
+8dc3e1d678e56d11ff33bdb387f9402f Source/Urho3D/LuaScript/generated/NavigationLuaAPI.cpp
+0de4af58b5ecf91d58da35a5220d585b Source/Urho3D/LuaScript/generated/NetworkLuaAPI.cpp
+b7f454e659d9955953d3f75abb485793 Source/Urho3D/LuaScript/generated/PhysicsLuaAPI.cpp
+d48a915c351a8e9ba74a4af37b8434c7 Source/Urho3D/LuaScript/generated/ResourceLuaAPI.cpp
+a08311c90d13ddd2a8894b624f1d5f76 Source/Urho3D/LuaScript/generated/SceneLuaAPI.cpp
+8775d2f2f96360f34e7d9ca39b3d6216 Source/Urho3D/LuaScript/generated/UILuaAPI.cpp
+e5bd963475860ac24581b1086c193d1b Source/Urho3D/LuaScript/generated/Urho2DLuaAPI.cpp
+39a16bb0dd6e8b61448d53cc2b79d25a Source/Urho3D/Precompiled.h.Release.pch.trigger
+8ee0edabb5115303336816d412edf3d9 Source/Urho3D/librevision.h

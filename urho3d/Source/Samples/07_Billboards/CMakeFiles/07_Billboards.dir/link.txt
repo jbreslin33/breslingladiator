@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/07_Billboards.dir/Billboards.cpp.o  -o ../../../bin/07_Billboards -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 
