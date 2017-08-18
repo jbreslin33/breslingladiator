@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/29_SoundSynthesis.dir/SoundSynthesis.cpp.o  -o ../../../bin/29_SoundSynthesis -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

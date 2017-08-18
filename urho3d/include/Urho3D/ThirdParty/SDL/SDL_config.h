@@ -1,1 +1,0 @@
-/home/jbreslin/sandbox/breslingladiator/urho3d/Source/ThirdParty/SDL/include/generated/SDL_config.h

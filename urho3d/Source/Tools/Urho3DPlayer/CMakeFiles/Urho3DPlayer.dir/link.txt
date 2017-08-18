@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/Urho3DPlayer.dir/Urho3DPlayer.cpp.o  -o ../../../bin/Urho3DPlayer -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL -ldl -lm -lrt -lGL 

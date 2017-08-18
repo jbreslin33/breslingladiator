@@ -1,1 +1,0 @@
-/home/jbreslin/sandbox/Urho3D/Source/ThirdParty/STB/./stb_image_write.h

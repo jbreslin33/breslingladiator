@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/19_VehicleDemo.dir/VehicleDemo.cpp.o CMakeFiles/19_VehicleDemo.dir/Vehicle.cpp.o  -o ../../../bin/19_VehicleDemo -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

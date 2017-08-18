@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/25_Urho2DParticle.dir/Urho2DParticle.cpp.o  -o ../../../bin/25_Urho2DParticle -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

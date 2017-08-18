@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/40_Localization.dir/L10n.cpp.o  -o ../../../bin/40_Localization -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

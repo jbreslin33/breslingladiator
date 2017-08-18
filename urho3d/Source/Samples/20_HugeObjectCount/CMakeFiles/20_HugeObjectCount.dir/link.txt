@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/20_HugeObjectCount.dir/HugeObjectCount.cpp.o  -o ../../../bin/20_HugeObjectCount -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

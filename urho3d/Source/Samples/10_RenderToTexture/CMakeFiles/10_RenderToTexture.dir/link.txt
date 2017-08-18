@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/10_RenderToTexture.dir/RenderToTexture.cpp.o CMakeFiles/10_RenderToTexture.dir/Rotator.cpp.o  -o ../../../bin/10_RenderToTexture -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

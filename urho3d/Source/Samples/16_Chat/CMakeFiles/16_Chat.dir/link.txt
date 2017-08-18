@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/16_Chat.dir/Chat.cpp.o  -o ../../../bin/16_Chat -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 
