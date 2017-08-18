@@ -1,2 +1,1 @@
-#!/usr/bin/env bash
-$(dirname $0)/Urho3DPlayer Scripts/42_PBRMaterials.as $@
+/home/jbreslin/sandbox/Urho3D/bin/PBRDemo.sh

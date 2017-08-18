@@ -1340,9 +1340,9 @@ READLINE_LIBRARIES-ADVANCED:INTERNAL=1
 //Is RTTI enabled
 RTTI:INTERNAL=1
 //Initial value for CC
-SAVED_CC:INTERNAL=/usr/bin/cc
+SAVED_CC:INTERNAL=
 //Initial value for CXX
-SAVED_CXX:INTERNAL=/usr/bin/c++
+SAVED_CXX:INTERNAL=
 //SDL info echoed status
 SDL_INFO_ECHOED_STATUS:INTERNAL=TRUE
 //Have function XkbKeycodeToKeysym

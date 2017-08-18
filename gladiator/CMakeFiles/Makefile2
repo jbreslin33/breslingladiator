@@ -1461,11 +1461,11 @@ Source/Urho3D/preinstall: Source/ThirdParty/toluapp/src/bin/preinstall
 # Target rules for target Source/Urho3D/CMakeFiles/Urho3D.dir
 
 # All Build rule for target.
+Source/Urho3D/CMakeFiles/Urho3D.dir/all: Source/ThirdParty/FreeType/CMakeFiles/FreeType.dir/all
 Source/Urho3D/CMakeFiles/Urho3D.dir/all: Source/ThirdParty/JO/CMakeFiles/JO.dir/all
 Source/Urho3D/CMakeFiles/Urho3D.dir/all: Source/ThirdParty/LZ4/CMakeFiles/LZ4.dir/all
 Source/Urho3D/CMakeFiles/Urho3D.dir/all: Source/ThirdParty/PugiXml/CMakeFiles/PugiXml.dir/all
 Source/Urho3D/CMakeFiles/Urho3D.dir/all: Source/ThirdParty/rapidjson/CMakeFiles/rapidjson.dir/all
-Source/Urho3D/CMakeFiles/Urho3D.dir/all: Source/ThirdParty/FreeType/CMakeFiles/FreeType.dir/all
 Source/Urho3D/CMakeFiles/Urho3D.dir/all: Source/ThirdParty/SDL/CMakeFiles/SDL.dir/all
 Source/Urho3D/CMakeFiles/Urho3D.dir/all: Source/ThirdParty/StanHull/CMakeFiles/StanHull.dir/all
 Source/Urho3D/CMakeFiles/Urho3D.dir/all: Source/ThirdParty/STB/CMakeFiles/STB.dir/all
