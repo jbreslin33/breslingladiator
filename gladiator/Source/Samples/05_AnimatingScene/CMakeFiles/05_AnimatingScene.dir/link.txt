@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/05_AnimatingScene.dir/AnimatingScene.cpp.o CMakeFiles/05_AnimatingScene.dir/Rotator.cpp.o  -o ../../../bin/05_AnimatingScene -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

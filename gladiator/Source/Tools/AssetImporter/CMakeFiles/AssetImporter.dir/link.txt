@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/AssetImporter.dir/AssetImporter.cpp.o  -o ../../../bin/tool/AssetImporter -rdynamic ../../../lib/libUrho3D.a ../../ThirdParty/Assimp/libAssimp.a -ldl -lm -lrt -lGL ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

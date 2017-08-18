@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/06_SkeletalAnimation.dir/SkeletalAnimation.cpp.o CMakeFiles/06_SkeletalAnimation.dir/Mover.cpp.o  -o ../../../bin/06_SkeletalAnimation -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

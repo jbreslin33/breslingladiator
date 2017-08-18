@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-invalid-offsetof -march=native -ffast-math -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/44_RibbonTrailDemo.dir/RibbonTrailDemo.cpp.o  -o ../../../bin/44_RibbonTrailDemo -rdynamic ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 
