@@ -1102,7 +1102,7 @@ void UpdateStatus()
         if (players.length > 0)
             scoreText.text = "Score " + players[0].score;
         if (hiscores.length > 0)
-            hiscoreText.text = "bwdHiscore " + hiscores[0].score;
+            hiscoreText.text = "AlltimeHiscore " + hiscores[0].score;
     }
 
     Node@ playerNode = FindOwnNode();
